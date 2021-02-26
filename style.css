@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(65, 42, 45);
+}
+.elo{
+    color:yellow;
+    text-align:center;
+    margin-top: 23rem;
+    border: 25px;
+    font-size: 150px;
+}
